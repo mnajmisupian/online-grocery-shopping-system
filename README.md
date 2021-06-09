@@ -1,6 +1,5 @@
 Project title:
-<h1>Online Grocery Shopping System</h1>
-<h1>(NyumNyum Grocery Store)</h1>
+<h1>Online Grocery Shopping System (NyumNyum Grocery Store)</h1>
 
 Description:
 <p>This system is intended to help the consumers to manage grocery shopping list
